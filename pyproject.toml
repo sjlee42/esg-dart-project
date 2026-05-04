@@ -1,0 +1,16 @@
+[project]
+name = "esg-dart-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "pandas>=3.0.2",
+    "requests>=2.33.1",
+    "scikit-learn>=1.8.0",
+    "sentencepiece>=0.2.1",
+    "torch>=2.11.0",
+    "transformers>=5.7.0",
+]
