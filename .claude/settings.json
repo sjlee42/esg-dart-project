@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 /tmp/gen_sbert_notebook.py)",
+      "Bash(/Users/home1/esg-dart-project/.venv/bin/python -c ' *)",
+      "Bash(/Users/home1/esg-dart-project/.venv/bin/pip install *)"
+    ]
+  }
+}
