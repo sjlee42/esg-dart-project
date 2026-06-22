@@ -13,11 +13,12 @@ wheels/
 .env
 .env.local
 
-# 데이터 파일 (용량 큼, 민감)
-data/raw/
+# 데이터: 대용량·중간 산출물은 제외, 핵심 원천 CSV만 포함(재현용)
 data/processed/
+data/raw/CORPCODE.xml
 *.csv
-!company_master.csv
+!data/raw/company_master.csv
+!data/raw/seed_dictionary.csv
 
 # Jupyter
 .ipynb_checkpoints/
@@ -29,6 +30,14 @@ data/processed/
 # IDE
 .vscode/
 .idea/
+
+# Claude Code 로컬 도구 (프로젝트 산출물 아님)
+.agents/
+.claude/skills/
+skills-lock.json
+
+# 아카이브 zip (재생성 가능)
+outputs/*.zip
 
 # uv
 .venv/
