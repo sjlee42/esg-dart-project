@@ -1,0 +1,31 @@
+dimension,seed_term,pattern,source_basis,source_titles,notes
+E,탄소,탄소,Bloomberg ESG climate change; Sautner-style climate exposure,"Bloomberg ESG framework; Sautner-style climate change exposure; Alam et al. (2025)",carbon / climate exposure core seed
+E,온실가스,온실가스|GHG,Bloomberg ESG climate change; GHG emissions literature,"Bloomberg ESG framework; Sautner-style climate change exposure; Alam et al. (2025)",greenhouse gas emissions seed
+E,탄소중립,탄소중립,Bloomberg ESG climate change; net-zero transition literature,"Bloomberg ESG framework; Sautner-style climate change exposure; Alam et al. (2025)",net-zero transition Korean term
+E,넷제로,넷제로|net zero|net-zero,Bloomberg ESG climate change; net-zero transition literature,"Bloomberg ESG framework; Sautner-style climate change exposure; Alam et al. (2025)",net-zero borrowed term
+E,재생에너지,재생에너지|renewable energy,Bloomberg ESG water/energy management; climate opportunity literature,"Bloomberg ESG framework; Sautner-style climate change exposure; Alam et al. (2025)",renewable energy seed
+E,에너지,에너지,Bloomberg ESG water/energy management,"Bloomberg ESG framework; Alam et al. (2025)",energy management broad seed
+E,전력,전력|전력사용량,Bloomberg ESG energy management,"Bloomberg ESG framework; Alam et al. (2025)",power usage operational seed
+E,폐기물,폐기물,Bloomberg ESG material and waste,"Bloomberg ESG framework; Bao et al. (2024)",material and waste seed
+E,재활용,재활용|자원순환,Bloomberg ESG material and waste,"Bloomberg ESG framework; Bao et al. (2024)",waste recycling / circularity seed
+E,폐수,폐수|수질|물관리,Bloomberg ESG water management,"Bloomberg ESG framework; Bao et al. (2024)",water / wastewater management seed
+S,안전,안전,Refinitiv Workforce healthy workplace; ESG workforce/safety framework,"Refinitiv Workforce score evidence; Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+S,산업재해,산업재해|재해율,Refinitiv Workforce healthy and safe workplace; Korean safety disclosure context,"Refinitiv Workforce score evidence; Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+S,중대재해,중대재해,Refinitiv Workforce healthy and safe workplace; Korean safety disclosure context,"Refinitiv Workforce score evidence; Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+S,임직원,임직원|직원|근로자,MSCI KLD employees; Refinitiv Workforce; Li et al. (2021) representative employee/staff terms,"MSCI ESG KLD Stats; Refinitiv Workforce score; Li et al. (2021)",employee/workforce seed
+S,노동,노동|노사,MSCI KLD employees; workforce relations,"MSCI ESG KLD Stats; Refinitiv Workforce score",labor relations seed
+S,인권,인권,MSCI KLD human rights category,"MSCI ESG KLD Stats; Refinitiv Workforce score evidence",human rights seed
+S,교육훈련,교육훈련|교육|훈련,Refinitiv Workforce development opportunities,"Refinitiv Workforce score evidence; Dissecting Corporate Culture Using Generative AI",employee development seed
+S,협력사,협력사,collaboration/stakeholder literature; Korean ESG supply-chain disclosure context,"Chen et al. (2025) collaboration culture; MSCI ESG KLD Stats; Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+S,공급망,공급망|supply chain,collaboration/stakeholder literature; Korean ESG supply-chain disclosure context,"Chen et al. (2025) collaboration culture; MSCI ESG KLD Stats; Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+S,지역사회,지역사회|community,MSCI KLD community category; corporate values community,"MSCI ESG KLD Stats; Guiso et al. (2015)",community stakeholder seed
+G,이사회,이사회,Bloomberg ESG board structure/tenure; corporate governance vocabulary,"Bloomberg ESG framework; Li et al. (2021)",board seed
+G,사외이사,사외이사,Bloomberg ESG board independence,"Bloomberg ESG framework; Li et al. (2021)",outside director seed
+G,감사위원회,감사위원회,Bloomberg ESG audit risk and oversight,"Bloomberg ESG framework; Li et al. (2021)",audit committee seed
+G,독립성,독립성|independence,Bloomberg ESG board independence; governance/integrity literature,"Bloomberg ESG framework; Guiso et al. (2015); Bao et al. (2024)",independence seed
+G,윤리,윤리|ethic|ethical,Guiso et al. (2015) integrity values; Bao et al. (2024) integrity culture; GenAI integrity/risk management,"Guiso et al. (2015); Bao et al. (2024); Dissecting Corporate Culture Using Generative AI",ethics seed
+G,준법,준법|compliance,integrity/governance culture literature; GenAI integrity/risk management,"Bao et al. (2024); Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+G,컴플라이언스,컴플라이언스|compliance,integrity/governance culture literature; GenAI integrity/risk management,"Bao et al. (2024); Dissecting Corporate Culture Using Generative AI",draft Korean operational seed; validate DART usage
+G,부패방지,부패방지|반부패|anti-corruption,integrity / ethics / accountability literature,"Guiso et al. (2015); Bao et al. (2024); Dissecting Corporate Culture Using Generative AI",anti-corruption seed
+G,주주,주주,Bloomberg ESG shareholders' rights,"Bloomberg ESG framework; Bao et al. (2024)",shareholder rights seed
+G,의결권,의결권|voting rights,Bloomberg ESG shareholders' rights,"Bloomberg ESG framework; Bao et al. (2024)",voting rights seed
